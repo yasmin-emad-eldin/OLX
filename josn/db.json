@@ -1,0 +1,33 @@
+{
+  "users": [
+
+    {
+      "id": 1,
+      "name":"yasmin",
+      "userName":"y",
+      "email":"yasmin@gmail.com",
+      "age":18,
+      "phone":"01014886038",
+      "password":"1",
+      "role":"user"
+
+    }
+
+   
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name":"admin",
+      "userName":"a",
+      "age":26,
+      "email":"admin@gmail.com",
+      "password":"1",
+      "phone":"01014886039",
+      "role":"admin"
+    }
+   
+  ]
+
+ 
+}
